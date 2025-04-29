@@ -1,1 +1,1 @@
-# python week 7 assighnment
+# python week 7 assignment
